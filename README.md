@@ -12,8 +12,8 @@ The system:
   - Implements filters (by customer, location, call duration) and monthly bill viewing.
   - Includes an optional parallel filtering mode (multi-threading) to demonstrate performance improvements.
 
-This was developed as part of CSC148: Introduction to Computer Science (University of Toronto).
-⚠️ Note: Some starter code and specifications were provided by the course instructors. This repository is for educational and portfolio purposes only and should not be reused for academic submission.
+
+⚠️ Note: This was developed as part of CSC148: Introduction to Computer Science (University of Toronto). Some starter code and specifications were provided by the course instructors. This repository is for educational and portfolio purposes only and should not be reused for academic submission.
 
 ## Features
 - Customer & Phone Line Management: Each customer has unique phone lines linked to contracts.
