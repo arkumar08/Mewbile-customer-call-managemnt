@@ -37,3 +37,22 @@ Filtering:
   - By location
   - Reset all filters
 
+### Getting Started
+Install dependencies:
+```
+pip install pygame pytest
+```
+
+### Running the Application
+```
+python application.py
+```
+Opens a Toronto map window.
+Displays all customer calls visually.
+Use keybinds to filter data:
+  - C – filter by customer ID
+  - D – filter by duration
+  - L – filter by location
+  - R – reset filters
+  - M – display monthly bill
+  - X – quit application
